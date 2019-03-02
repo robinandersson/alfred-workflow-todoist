@@ -167,7 +167,7 @@
     "@types/moo": "0.4.2",
     "@types/nearley": "2.11.0",
     "@types/nock": "9.3.0",
-    "@types/node": "*",
+    "@types/node": ">=11.10.4",
     "@types/node-notifier": "0.0.28",
     "@types/opn": "5.1.0",
     "@types/shelljs": "0.8.1",
